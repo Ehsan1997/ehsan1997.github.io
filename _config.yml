@@ -58,7 +58,7 @@ content:
     content:
       - layout: top-middle
         title: Anomaly Detection With Normalizing Flows
-        link: https://github.com/Ehsan1997/NormalizingFlows_HEP
+        link: github.com/Ehsan1997/NormalizingFlows_HEP
         # link_text: Project Website
         additional_links:
           - title:  Ehsan1997/NormalizingFlows_HEP
@@ -118,6 +118,16 @@ content:
           Applying Machine Learning in High Energy Physics.
         description: | # this will include new lines to allow paragraphs
             Machine Learning has showed potential in various field, thus it only makes sense to apply it for High Energy Physics. During my work here, I applied Machine Learning for various tasks on Large Hadron Collider Dataset.
+      - layout: left
+        title: Freelance Project
+        # link: ml4sci.org
+        # link_text: boringcompany.com
+        sub_title: Machine Learning Researcher
+        caption: 2020
+        quote: >
+          Applying Machine Learning for molecule generation.
+        description: | # this will include new lines to allow paragraphs
+            Generating Molecules using Deep Learning requires knowledge of Generative Modelling and Natural Language Processing. Here, I applied Variational AutoEncoders for generating sequences of atoms that composed a molecule. This also allowed for latent walk, where new molecules could be generated.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -130,6 +140,17 @@ content:
           Ranked # 1 in Pakistan. Worldwide it is ranked at 143 for Computer Science while overall its position is 358.
         description: | # this will include new lines to allow paragraphs
           Software Engineering degree is an intensive program where the student is exposed to various real-world problems. Collaboration with various industries is also carried out.
+      
+      - layout: left
+        title: National University of Sciences and Technology
+        caption: 2019 - 2021
+        sub_title: MS Computer Science
+        quote: >
+          Ranked # 1 in Pakistan. Worldwide it is ranked at 143 for Computer Science while overall its position is 358.
+        description: | # this will include new lines to allow paragraphs
+          Most of my degree is related to Deep Learning and Computer Vision. My thesis was in Vision based TV Analytics where I used principles from Software Engineering to apply Metric Learning to Live Video Streams from YouTube.
+
+
 
 #   - title: A Little More About Me
 #     layout: text
