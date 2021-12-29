@@ -88,21 +88,21 @@ content:
         description: | # this will include new lines to allow paragraphs
           This project explores the performance of different object detection models (YOLO-based, RCNN-based and RetinaNet (FPN-Based)) on aerial vehicle detection. "SIMD" dataset was used for this purpose. It was built using <mark>Tensorflow</mark>.
       
-    - layout: top-middle
-      title: Semantic Segmentation in Medical Imaging
-      link: github.com/Ehsan1997/ImageSegmentation-UNET-DeepLab-SegNet
-      # link_text: Project Website
-      additional_links:
-        - title:  Ehsan1997/ImageSegmentation-UNET-DeepLab-SegNet
-          icon: fab fa-github
-          url: https://github.com/Ehsan1997/ImageSegmentation-UNET-DeepLab-SegNet
-        # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-        #   icon: fab fa-github
-        #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-      quote: >
-        Nuclear Segmentation in digital microscopic tissues via Deep Learning based Computer Vision techniques.
-      description: | # this will include new lines to allow paragraphs
-        Using SOTA models in semantic segmentation (DeepLab, SegNet and UNet) nuclear segmentation was carried out. MonuSeg dataset was used. Built using <mark>Tensorflow</mark>.
+      - layout: top-middle
+        title: Semantic Segmentation in Medical Imaging
+        link: github.com/Ehsan1997/ImageSegmentation-UNET-DeepLab-SegNet
+        # link_text: Project Website
+        additional_links:
+          - title:  Ehsan1997/ImageSegmentation-UNET-DeepLab-SegNet
+            icon: fab fa-github
+            url: https://github.com/Ehsan1997/ImageSegmentation-UNET-DeepLab-SegNet
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          Nuclear Segmentation in digital microscopic tissues via Deep Learning based Computer Vision techniques.
+        description: | # this will include new lines to allow paragraphs
+          Using SOTA models in semantic segmentation (DeepLab, SegNet and UNet) nuclear segmentation was carried out. MonuSeg dataset was used. Built using <mark>Tensorflow</mark>.
 
       
   - title: Experience # Title for the section
